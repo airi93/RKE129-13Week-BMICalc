@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(137, 43, 226, 0.501);
+}
+.container {
+    margin: 5rem auto;
+   width: 75%;
+   text-align: center;
+}
